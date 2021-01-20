@@ -1,3 +1,3 @@
 # zen-garden
-# zen-css
-# zen-html
+  zen-css
+  zen-html
